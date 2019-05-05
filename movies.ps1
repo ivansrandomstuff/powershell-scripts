@@ -1,0 +1,1 @@
+node C:\Users\IvanV\Documents\web\node\movie-getter\app.js $args[0]
